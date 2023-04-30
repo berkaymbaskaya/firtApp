@@ -1,7 +1,7 @@
 {
   "name": "firtapp",
   "version": "0.0.0",
-  "homepage": "https://berkaymbaskaya.github.io/firtApp/",
+  "homepage": "berkaymbaskaya.github.io/firtApp/",
   "private": true,
   "scripts": {
     "dev": "vite",
