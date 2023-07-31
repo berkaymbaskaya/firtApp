@@ -1,6 +1,7 @@
 # firtApp
 
 This template should help get you started developing with Vue 3 in Vite.
+Live Demo:https://berkaymbaskaya.github.io/shop/
 
 ## Recommended IDE Setup
 
